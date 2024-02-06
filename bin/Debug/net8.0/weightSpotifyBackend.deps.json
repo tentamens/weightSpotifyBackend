@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "weightSpotifyBackend/1.0.0": {
+        "runtime": {
+          "weightSpotifyBackend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "weightSpotifyBackend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

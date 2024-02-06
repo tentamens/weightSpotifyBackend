@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f6EeTBvRMoYZ1t42nNBh7hukcEJtiDpOk1YLDd/47zg=",
+  "Source": "weightSpotifyBackend",
+  "BasePath": "_content/weightSpotifyBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
