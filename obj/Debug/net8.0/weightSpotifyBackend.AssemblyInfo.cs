@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("weightSpotifyBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59818150036f0c8efd1555e894e877a36af2caac")]
 [assembly: System.Reflection.AssemblyProductAttribute("weightSpotifyBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("weightSpotifyBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
