@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mYzhAPfHrDiAfDnTZhZ3FnO/DTU12VjybN+Y/K7ZFGZEm8K//leMvon0tgWvYR502yH4QzrRmT2SqC+RlxAPtA==",
+  "dgSpecHash": "Ktu17/vw40IQqiMtgU0FUYIt7dTwXiv/US7YNW8pUDpueOlx9jEBJmrm+XESlzf/ya0cW90kQ5abOArOaj/Frw==",
   "success": true,
   "projectFilePath": "/home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/weightSpotifyBackend.csproj",
   "expectedPackageFiles": [
+    "/home/tentamens/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/home/tentamens/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/tentamens/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512",
     "/home/tentamens/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
   ],
   "logs": []

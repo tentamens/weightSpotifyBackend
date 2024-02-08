@@ -24,3 +24,6 @@
 /home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/obj/Debug/net8.0/weightSpotifyBackend.genruntimeconfig.cache
 /home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/obj/Debug/net8.0/ref/weightSpotifyBackend.dll
 /home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/obj/Debug/net8.0/weightSpotifyBackend.sourcelink.json
+/home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/obj/Debug/net8.0/weightSpotifyBackend.csproj.AssemblyReference.cache
+/home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/bin/Debug/net8.0/RestSharp.dll
+/home/tentamens/Documents/projects/weightSpotify/weightSpotifyBackend/obj/Debug/net8.0/weightSpotifyBackend.csproj.CopyComplete
