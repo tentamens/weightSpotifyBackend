@@ -17,8 +17,8 @@ app.UseCors(builder =>
 
 
 
-var clientId = "6b71231841e2457480410c0c5a90d3b6";
-var clientSecret = "87b912e9ac5c4188952195924408fb60";
+var clientId = "";
+var clientSecret = "";
 
 
 app.MapGet("/", () => "Hello World!");
