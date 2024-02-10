@@ -84,7 +84,6 @@ app.MapGet("/callback", async (HttpContext context) =>
 
 app.MapPost("/api/refreshtoken", async (HttpContext context) =>
 {
-    Console.WriteLine("refresh called");
     var request = context.Request;
     var response = context.Response;
     using var reader = new StreamReader(context.Request.Body);
@@ -99,7 +98,6 @@ app.MapPost("/api/refreshtoken", async (HttpContext context) =>
     var clientIdAndSecret = $"{clientId}:{clientSecret}";
     var base64ClientIdAndSecret = Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(clientIdAndSecret));
 
-    Console.WriteLine(token);
 
     using var client = new RestClient();
 
@@ -110,7 +108,6 @@ app.MapPost("/api/refreshtoken", async (HttpContext context) =>
      .AddHeader("Authorization", $"Basic {base64ClientIdAndSecret}")
      .AddHeader("Content-Type", "application/x-www-form-urlencoded");
     var result = await client.PostAsync(requestCall);
-    Console.WriteLine(result.Content);
 
     await response.WriteAsync(result.Content);
 
